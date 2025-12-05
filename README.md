@@ -12,10 +12,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&theme=transparent&hide_border=true&include_all_commits=true" alt="Elykia's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Elykia093&theme=transparent&hide_border=true&include_all_commits=true" alt="Elykia's GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=elykia-cn&theme=transparent&hide_border=true" alt="Elykia's GitHub streak stats" />
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Elykia093&theme=transparent&hide_border=true" alt="Elykia's GitHub streak stats" />
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/elykia-cn/elykia-cn/image/Elykia.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Elykia093/Elykia093/image/Elykia.jpg" />
 
 <p>&emsp;&emsp;嗨，欢迎来到我的主页！我是Elykia。</p>
 <p>&emsp;&emsp;Github 是一个很有魅力的地方，有许许多多的大佬在这里活跃。 </p>
@@ -47,7 +47,7 @@
 
 ### 🏢 Educational Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/elykia-cn/elykia-cn/image/ZZU.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Elykia093/Elykia093/image/ZZU.jpg" />
 
 - [Zhengzhou University](https://www.zzu.edu.cn/) &emsp; 📌 2022-09-01 —— 2026-06-31
 
@@ -61,7 +61,6 @@
 </td></tr>
 
 <tr><td>
-
 
 ### 📊 WakaTime
 
@@ -88,20 +87,19 @@
 
 <div align="center">
 
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=elykia-cn&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=elykia-cn&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=elykia-cn&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Elykia093&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Elykia093&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elykia093&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
 </table>
 
-<!--  skill badge 技能徽章 -->
+<!-- skill badge 技能徽章 -->
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -161,12 +159,10 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
-
-
 <br/>
+
 <!-- https://github.com/LelouchFR/skill-icons -->
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,matlab,md,sqlite&theme=auto">
 </p>
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
-
