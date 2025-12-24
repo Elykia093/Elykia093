@@ -14,9 +14,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Elykia093&theme=transparent&hide_border=true&include_all_commits=true" alt="Elykia's GitHub stats" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Elykia093&theme=transparent&hide_border=true" alt="Elykia's GitHub streak stats" />
-    </td>
   </tr>
 </table>
 
